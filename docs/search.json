@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Maxwell Heller",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Programming and data processing: Experience writing Python, R, Arduino, and ESP8266 code to collect, clean, process, and display data.\nHardware and circuit troubleshooting: Able to wire sensors, motors, displays, and microcontrollers while debugging issues with power, pins, and communication.\nTechnical problem-solving: Comfortable breaking down complex projects, testing step by step, finding errors, and explaining how the system works clearly.\n\n\n\n\n\nCollege coursework in computer science and data analysis: Studied programming, databases, statistics, and data visualization and algorithms.\nExperience with technical labs and projects: Completed coursework involving Arduino circuits, sensors, microcontrollers, spatial data, and real-time data systems.\nStrong foundation in math and problem-solving: Built skills through calculus, linear algebra, statistics, data modeling, and simulations."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Maxwell Heller",
+    "section": "",
+    "text": "Programming and data processing: Experience writing Python, R, Arduino, and ESP8266 code to collect, clean, process, and display data.\nHardware and circuit troubleshooting: Able to wire sensors, motors, displays, and microcontrollers while debugging issues with power, pins, and communication.\nTechnical problem-solving: Comfortable breaking down complex projects, testing step by step, finding errors, and explaining how the system works clearly."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Maxwell Heller",
+    "section": "",
+    "text": "College coursework in computer science and data analysis: Studied programming, databases, statistics, and data visualization and algorithms.\nExperience with technical labs and projects: Completed coursework involving Arduino circuits, sensors, microcontrollers, spatial data, and real-time data systems.\nStrong foundation in math and problem-solving: Built skills through calculus, linear algebra, statistics, data modeling, and simulations."
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "Hobbies",
+    "section": "",
+    "text": "I do screen printing for myself and a band manidoo.\nI play pool very often at my local billards hall. I recently bought my own pool que.\nIve been creating digital art for almost 5 years."
   }
 ]

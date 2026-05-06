@@ -1,3 +1,43 @@
+<<<<<<< HEAD
+---
+title: "Maxwell Heller"
+image: hero_image.jpg
+about:
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  
+  links:
+  - text: Email
+    icon: envolope
+    href: hellermax648@gmail.com
+  - text: CoolMath
+    icon: joystick
+    href: https://www.coolmathgames.com/
+---
+
+::: (#ppc)
+## Skills
+
+
+- Programming and data processing: Experience writing Python, R, Arduino, and ESP8266 code to collect, clean, process, and display data.
+
+- Hardware and circuit troubleshooting: Able to wire sensors, motors, displays, and microcontrollers while debugging issues with power, pins, and communication.
+
+- Technical problem-solving: Comfortable breaking down complex projects, testing step by step, finding errors, and explaining how the system works clearly.
+
+
+## Education
+
+- College coursework in computer science and data analysis: Studied programming, databases, statistics, and data visualization and algorithms.
+
+- Experience with technical labs and projects: Completed coursework involving Arduino circuits, sensors, microcontrollers, spatial data, and real-time data systems.
+
+- Strong foundation in math and problem-solving: Built skills through calculus, linear algebra, statistics, data modeling, and simulations.
+
+
+:::
+=======
 ---
 title: "Maxwell Heller"
 ---
@@ -9,3 +49,4 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ```{r}
 1 + 1
 ```
+>>>>>>> d6b6b0cb1e373e9371d90c786d5f8049297237f9

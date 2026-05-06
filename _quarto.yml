@@ -8,15 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: hobbies.qmd
+        text: Hobbies
+      
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: vapor
     css: styles.css
     toc: true
-
-editor: visual
-
